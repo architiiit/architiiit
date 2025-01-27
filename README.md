@@ -54,12 +54,7 @@ Operating Systems | DBMS | Computer Networks
 
 I'm always looking for opportunities to learn, collaborate, and contribute to exciting projects. Let's connect and create something extraordinary! 😁
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Archit%20Vashist-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/archit-vashist-3470a1235) [![GitHub](https://img.shields.io/badge/GitHub-Archit%20Vashist-black?style=flat-square&logo=github)](https://github.com/architiiit)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Archit%20Vashist-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/archit-vashist-3470a1235) [![GitHub](https://img.shields.io/badge/GitHub-Archit%20Vashist-black?style=flat-square&logo=github)](https://github.com/architiiit) [![LeetCode](https://img.shields.io/badge/LeetCode-Archit%20Vashist-orange?style=flat-square&logo=leetcode)](https://leetcode.com/u/archit21bec22/) [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Archit%20Vashist-brightgreen?style=flat-square&logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/archit21bec22/)
 
 *"Innovation lies at the crossroads of curiosity and creativity."*
-
-
-
-
 
